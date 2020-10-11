@@ -1,4 +1,4 @@
-# Calculo-de-For-a
+# CONTA-LETRAS-A
 projeto faculdade
 onEvent("button_contarletra_a", "click", function( ) {
   var palavra = "";
